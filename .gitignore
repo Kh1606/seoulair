@@ -1,0 +1,14 @@
+# Large raw / merged datasets (not for the repo) — keep data/ sample only
+*.xlsx
+*.zip
+/2022_*.csv
+/2023_*.csv
+/team_spirit*.csv
+/weather_final*
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+Thumbs.db
