@@ -10,6 +10,10 @@ gaps and joins everything into clean tables.
 
 **Stack:** Python · pandas · Matplotlib · Jupyter
 
+![How it works](docs/howitworks.png)
+
+*Rendered from [`docs/howitworks.py`](docs/howitworks.py) (Python `diagrams` library).*
+
 ## Sample findings
 
 | Pollutant correlations | Daily PM2.5 | Monthly PM2.5 vs PM10 |
